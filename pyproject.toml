@@ -5,15 +5,22 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "bs4>=0.0.2",
+    "chromadb>=1.0.15",
     "faiss-cpu>=1.11.0",
     "ipykernel>=6.29.5",
     "langchain>=0.3.26",
     "langchain-community>=0.3.26",
+    "langchain-google-genai>=2.1.6",
     "langchain-groq>=0.3.4",
+    "langchain-huggingface>=0.3.0",
     "langchain-openai>=0.3.26",
     "langchain-tavily>=0.2.5",
     "langgraph>=0.5.0",
     "langsmith>=0.4.3",
     "openai>=1.92.2",
     "pypdf2>=3.0.1",
+    "requests>=2.32.4",
+    "sentence-transformers>=5.0.0",
+    "torch>=2.7.1",
 ]

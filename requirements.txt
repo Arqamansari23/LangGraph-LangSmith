@@ -9,3 +9,10 @@ langchain-community
 openai
 ipykernel
 langchain_tavily
+langchain_huggingface
+sentence-transformers
+langchain_google_genai
+bs4
+requests
+chromadb
+langchain_community
